@@ -1,0 +1,1 @@
+([('b525', '/Users/nick/Code/HuaweiB525Router/dist/b525', 'EXECUTABLE')],)
